@@ -1,2 +1,2 @@
 # hello-world
-first program bye github
+n sei oq estou fazendo
